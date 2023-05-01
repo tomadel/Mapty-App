@@ -1,0 +1,3 @@
+# Mapty-App
+The app is created for to allow users to access their locations by using LeafLet's public map api. In this app users can mark their activity on the map and saves for later.
+Mapty is a web application created as part of Jonas Schmedtmann's full JavaScript course. It utilizes Leaflet's map library to provide users with an interactive map interface for tracking their exercises. With Mapty, users can easily record and monitor their fitness activities by marking their workouts on the map. The app offers a user-friendly GUI and allows users to input details such as exercise type, distance, and duration.
